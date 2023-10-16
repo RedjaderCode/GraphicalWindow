@@ -1,0 +1,7 @@
+main.cpp:9:18:LRESULT WindowProc(HWND, UINT, WPARAM, LPARAM)	128	static
+main.cpp:43:6:void CreateCOMContext()	48	static
+main.cpp:48:6:void UpdateEvents()	16	static
+main.cpp:53:7:void* _UpdateInputLoop(BOOL)	1152	static
+main.cpp:105:10:void window::Initialize(const wchar_t*, HINSTANCE)	192	static
+main.cpp:134:5:window::~window()	16	static
+main.cpp:142:12:INT WinMain(HINSTANCE, HINSTANCE, LPSTR, INT)	80	static
